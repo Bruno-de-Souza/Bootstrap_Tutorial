@@ -1,2 +1,1 @@
-# Bootstrap_Tutorial
-Learning the framework Bootstrap
+# Bootstrap Tutorial
